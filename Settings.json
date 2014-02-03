@@ -1,0 +1,9 @@
+{
+    "wanted_methods": "Input/Wanted_Methods.csv",
+    "n_rounds": 5,
+    "interactions": "Input/Network.txt",
+    "known_methods": "Input/Known_Methods.csv",
+    "mutual_compatibility_output": null,
+    "alpha": 0.05,
+    "knowledge_similarity_output": null
+}
