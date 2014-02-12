@@ -8,8 +8,8 @@ Attila Csikasz-Nagy
 Rafael Carazo-Salas
 
 Distributed under AGPL3; see LICENSE.txt.  For use of the code under a
-different license, contact Christine Martin at Cambridge Enterprise:
-enquiries@enterprise.cam.ac.uk
+different license, or information about consulting and solutions tailored
+to specific buisness needs, please visit: http://www.matchingknowledge.com/
 
 
 Summary:
